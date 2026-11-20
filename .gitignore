@@ -1,0 +1,6 @@
+/dist/
+/artifacts/
+bin/
+obj/
+loaded.txt
+*.user

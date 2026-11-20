@@ -1,0 +1,508 @@
+File	文件
+Edit	编辑
+View	视图
+Tools	工具
+Help	帮助
+Window	窗口
+Windows	窗口
+Format	格式
+Markdown	Markdown
+Addins	插件
+Add-ins	插件
+New	新建
+New Document	新建文档
+New Markdown Document	新建 Markdown 文档
+Open	打开
+Open File	打开文件
+Open Document	打开文档
+Open Folder	打开文件夹
+Open Folder Browser	打开文件夹浏览器
+Save	保存
+Save As	另存为
+Save All	全部保存
+Close	关闭
+Close All	全部关闭
+Close Document	关闭文档
+Close Other Documents	关闭其他文档
+Close All Documents	关闭全部文档
+Exit	退出
+Recent Documents	最近的文档
+Recent Files	最近的文件
+Recent Folders	最近的文件夹
+Print	打印
+Print Preview	打印预览
+Export	导出
+Export to PDF	导出为 PDF
+Save As Pdf	另存为 PDF
+Undo	撤销
+Redo	重做
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Paste Special	选择性粘贴
+Select All	全选
+Find	查找
+Replace	替换
+Find and Replace	查找和替换
+Find in Files	在文件中查找
+Search	搜索
+Search Files	搜索文件
+Go to Line	转到行
+Delete	删除
+Rename	重命名
+Refresh	刷新
+Reload	重新加载
+Settings	设置
+Preferences	偏好设置
+Options	选项
+Configuration	配置
+Show Preview	显示预览
+Toggle Preview	切换预览
+Preview	预览
+Preview Theme	预览主题
+Editor Theme	编辑器主题
+Theme	主题
+Themes	主题
+Dark	深色
+Light	浅色
+Folder Browser	文件夹浏览器
+Document Outline	文档大纲
+Favorites	收藏夹
+Link Checker	链接检查
+File Search	文件搜索
+File Browser	文件浏览器
+Toolbar	工具栏
+Status Bar	状态栏
+Menu	菜单
+Full Screen	全屏
+Distraction Free Mode	专注模式
+Presentation Mode	演示模式
+Zoom In	放大
+Zoom Out	缩小
+Reset Zoom	重置缩放
+Word Wrap	自动换行
+Show Line Numbers	显示行号
+Line Numbers	行号
+Spell Check	拼写检查
+Spell Checking	拼写检查
+Bold	粗体
+Italic	斜体
+Strikethrough	删除线
+Inline Code	行内代码
+Code Block	代码块
+Heading	标题
+Heading 1	一级标题
+Heading 2	二级标题
+Heading 3	三级标题
+Heading 4	四级标题
+Heading 5	五级标题
+Heading 6	六级标题
+Blockquote	引用
+Quote	引用
+Ordered List	有序列表
+Unordered List	无序列表
+Bulleted List	无序列表
+Numbered List	有序列表
+Task List	任务列表
+Horizontal Rule	水平分隔线
+Insert	插入
+Insert Image	插入图片
+Insert Link	插入链接
+Insert Table	插入表格
+Insert Code Block	插入代码块
+Insert Emoji	插入表情
+Image	图片
+Link	链接
+Table	表格
+Edit Table	编辑表格
+Table Editor	表格编辑器
+Title	标题
+Text	文本
+Width	宽度
+Height	高度
+Columns	列
+Rows	行
+Alignment	对齐
+Left	左对齐
+Right	右对齐
+Center	居中
+None	无
+Default	默认
+Browse	浏览
+Browse Files	浏览文件
+Browse Folder	浏览文件夹
+OK	确定
+Cancel	取消
+Apply	应用
+Yes	是
+No	否
+Add	添加
+Remove	移除
+Update	更新
+Install	安装
+Uninstall	卸载
+Enable	启用
+Disable	禁用
+Enabled	已启用
+Disabled	已禁用
+Name	名称
+Description	说明
+Version	版本
+Author	作者
+About	关于
+About Markdown Monster	关于 Markdown Monster
+Check for Updates	检查更新
+Documentation	使用文档
+Online Documentation	在线文档
+Support	支持
+Report an Issue	反馈问题
+Register	注册
+License	许可证
+Manage Addins	管理插件
+Addin Manager	插件管理器
+Open in Browser	在浏览器中打开
+Open in External Editor	在外部编辑器中打开
+Open in Explorer	在资源管理器中打开
+Open Terminal	打开终端
+Copy Path	复制路径
+Copy File Path	复制文件路径
+Copy Html	复制 HTML
+Copy as Html	复制为 HTML
+Paste Html	粘贴 HTML
+Paste Image	粘贴图片
+New File	新建文件
+New Folder	新建文件夹
+Expand All	全部展开
+Collapse All	全部折叠
+Add to Favorites	添加到收藏夹
+Remove from Favorites	从收藏夹移除
+Show in Folder Browser	在文件夹浏览器中显示
+Open Settings	打开设置
+Editor	编辑器
+General	常规
+Appearance	外观
+Font	字体
+Font Size	字号
+Keyboard	键盘
+Keyboard Shortcuts	键盘快捷键
+Auto Save	自动保存
+Word Count	字数统计
+Character Count	字符统计
+Line	行
+Column	列
+Git Commit	Git 提交
+Commit	提交
+Push	推送
+Pull	拉取
+Publish	发布
+Weblog	博客
+Snippets	代码片段
+Screen Capture	屏幕截图
+Capture Screen	截取屏幕
+AI	AI
+AI Chat	AI 对话
+Translate	翻译
+Translate Text	翻译文本
+Summarize	总结
+Generate	生成
+Send	发送
+Clear	清空
+Reset	重置
+Connection	连接
+Connections	连接
+Model	模型
+Prompt	提示词
+Temperature	温度
+Add-in Manager	插件管理器
+Attach to Remote Git Repository	关联远程 Git 仓库
+Auto Save Document	自动保存文档
+Close Diff View	关闭差异视图
+Close Project	关闭项目
+Commit to Git	提交到 Git
+Create Git Repository	创建 Git 仓库
+Edit Project File	编辑项目文件
+Inline View	行内视图
+Keep Current Change	保留当前更改
+Load Project	打开项目
+Print Output	打印输出
+Refresh Preview Content	刷新预览内容
+Reject Current Change	拒绝当前更改
+Remove Markdown Formatting	清除 Markdown 格式
+Side-by-Side View	并排视图
+Single Pane	单栏布局
+Split Editor	拆分编辑器
+Activate Folder Browser	聚焦文件夹浏览器
+Activate Favorites	聚焦收藏夹
+Activate Markdown Document Outline	聚焦文档大纲
+Accept Changes	接受更改
+Active document	当前文档
+All open documents	全部打开的文档
+Selected Text	选中的文本
+Add Folder	添加文件夹
+Allow Script Tags in Markdown	允许 Markdown 中的脚本标签
+Auto Backup Document	自动备份文档
+Backup configuration file to Gist	备份配置文件到 Gist
+Backup configuration folder to Zip File	备份配置文件夹为 ZIP
+Backup configuration folder to a Folder	备份配置到文件夹
+Backup Configuration Settings	备份配置设置
+Bold and Italic	粗斜体
+Body rows	内容行
+Browse for Folder	选择文件夹
+Camel Case	驼峰大小写
+Capture Title Screen Image	截取封面图片
+Check all Changes	勾选全部更改
+Check Document Links	检查文档链接
+Check for New Version	检查新版本
+Checkbox List	复选框列表
+Checking Document Links	正在检查文档链接
+Choose table size	选择表格大小
+Clean up Text	整理文本
+Cleaned up Text	整理后的文本
+Cleanup Images	清理图片
+Clear Console Text	清空控制台
+Clear image	清除图片
+Clear prompt text	清空提示词
+Clone Git Repository	克隆 Git 仓库
+Clone Repository	克隆仓库
+Close Console Panel	关闭控制台面板
+Close Folder Browser Panel	关闭文件夹浏览器面板
+Close Sidebar Panel	关闭侧栏
+Code Language	代码语言
+Collapse all sections	折叠全部章节
+Commit & Push	提交并推送
+Configuration for API Key and Defaults	API 密钥和默认设置
+Configuration Settings for Markdown Monster	Markdown Monster 配置设置
+Configure Markdown Monster	配置 Markdown Monster
+Connection Name	连接名称
+Console Output	控制台输出
+Copy Document Folder Path	复制文档所在文件夹路径
+Copy Document File Path	复制文档文件路径
+Copy Header Id to Clipboard	复制标题 ID
+Copy image to Clipboard	复制图片到剪贴板
+Copy Markdown Selection as Html	将选中的 Markdown 复制为 HTML
+Copy Path to Clipboard	复制路径到剪贴板
+Copy to Clipboard	复制到剪贴板
+Create New Repository	新建仓库
+Create Repository	创建仓库
+Create Table	创建表格
+Dark Theme	深色主题
+Delete Image	删除图片
+Diff View	差异视图
+Display PDF after generation	生成后打开 PDF
+Document Encoding	文档编码
+Document Statistics and Status	文档统计与状态
+Edit Configuration	编辑配置
+Edit Connection Setup	编辑连接设置
+Edit Favorite	编辑收藏项
+Edit Json	编辑 JSON
+Edit or paste Code	编辑或粘贴代码
+Editor Code Syntax	编辑器语法模式
+Editor Font Size Zoom Level	编辑器字号缩放
+Editor Themes	编辑器主题
+Embed Image	插入图片
+Embed into Document	插入到文档
+Embed Link	插入链接
+Embed Syntax Colored Code	插入语法高亮代码
+Embed Table	插入表格
+Embed Video	嵌入视频
+Embed YouTube Videos	嵌入 YouTube 视频
+Encrypt File	加密文件
+Encrypt Password Protected File	保存为密码保护的加密文件
+Entered Prompt	已输入的提示词
+Expand all sections	展开全部章节
+Export as raw Html Fragment	导出为 HTML 片段
+Export as self-contained Html File	导出为独立 HTML 文件
+Export Html and Dependencies into a Folder	导出 HTML 及依赖到文件夹
+Export Markdown to Html	将 Markdown 导出为 HTML
+Export Markdown to PDF	将 Markdown 导出为 PDF
+Export to a Zip file	导出为 ZIP 文件
+Export to CSV	导出为 CSV
+Export to Html	导出为 HTML
+Export to JSON Data Array	导出为 JSON 数据数组
+Export to JSON Objects	导出为 JSON 对象
+Extended Markup Operations	扩展标记操作
+External Preview	外部预览
+External Preview Window	独立预览窗口
+Favorite Title	收藏项标题
+File Filters	文件筛选
+File or Folder Path	文件或文件夹路径
+Find and Replace in Document	在文档中查找和替换
+Find Files	查找文件
+Find in Document	在文档中查找
+Find next occurrence	查找下一处
+Find previous occurrence	查找上一处
+Folder Browser Path	文件夹浏览器路径
+Folder to search	搜索文件夹
+Generate image	生成图片
+Generate PDF File	生成 PDF 文件
+Generate Table of Contents	生成目录
+Git Client	Git 客户端
+Git Repository	Git 仓库
+Git Repository URL	Git 仓库地址
+Header and Footer Configuration	页眉和页脚设置
+Html Encode	HTML 编码
+Image Height	图片高度
+Image quality	图片质量
+Image Resizing	调整图片大小
+Image Text	图片说明
+Image Width	图片宽度
+Import CSV	导入 CSV
+Import CSV to Markdown Table	将 CSV 导入为 Markdown 表格
+Import from Clipboard	从剪贴板导入
+Import from File	从文件导入
+Import Json	导入 JSON
+Import Json as Markdown Table	将 JSON 导入为 Markdown 表格
+In-Editor Diff	编辑器内差异比较
+Insert Header Link at Selection	在选中位置插入标题链接
+Install Addin	安装插件
+Internal Preview	内置预览
+Is Favorites Group	作为收藏分组
+Json Table Import	导入 JSON 表格
+Keep All Changes	保留全部更改
+keep aspect ratio	保持宽高比
+Keep Text Elements together	保持文本块完整
+Key Bindings	快捷键绑定
+Leave Dialog Open after Commit	提交后保持窗口打开
+Light Theme	浅色主题
+Link as a reference	使用引用式链接
+Link Text	链接文本
+Load Addin Manager	打开插件管理器
+Load Chat	载入对话
+Load from CSV	从 CSV 载入
+Load from JSON	从 JSON 载入
+Local Git Repository Path	本地 Git 仓库路径
+Local Path for cloned Content	克隆目标路径
+Make text smaller	缩小文字
+Manage Licenses	管理许可证
+Mark Text	高亮文字
+Markdown Basics	Markdown 基础
+Markdown Monster Addin Manager	Markdown Monster 插件管理器
+Markdown Monster AI Chat	Markdown Monster AI 对话
+Markdown Monster Settings	Markdown Monster 设置
+Markdown Monster Web Site	Markdown Monster 官网
+Markdown Preview	Markdown 预览
+More Options	更多选项
+New Chat	新建对话
+New Table	新建表格
+New Weblog Post	新建博客文章
+Next Spellcheck Error	下一个拼写错误
+Non-breaking Hyphen	不换行连字符
+Non-breaking Space	不换行空格
+Open From	打开来源
+Open AI API Configuration	AI API 配置
+Open AI Connection Name	AI 连接名称
+Open as Diff (Last Commit)	与上次提交比较差异
+Open Chat History Folder	打开对话历史文件夹
+Open Configuration Folder	打开配置文件夹
+Open Document's Folder in Folder Browser	在侧栏打开文档所在文件夹
+Open Folder in Git Client	在 Git 客户端中打开文件夹
+Open from Html	从 HTML 打开
+Open from Url	从网址打开
+Open in Folder Browser	在文件夹浏览器中打开
+Open in Image Editor	在图片编辑器中打开
+Open in Web Browser	在浏览器中打开
+Open Markdown from Url	从网址打开 Markdown
+Open Preview Themes Folder	打开预览主题文件夹
+Open URL	打开网址
+Original Text	原始文本
+Page Break	分页符
+Page Orientation	页面方向
+Page Size	纸张大小
+Paste as base64 content	粘贴为 Base64 内容
+Paste at Cursor	粘贴到光标处
+Paste Code	粘贴代码
+Paste Html as Markdown	将 HTML 粘贴为 Markdown
+Paste Link	粘贴链接
+Pdf Generation Delay	PDF 生成延迟
+Plain Text	纯文本
+Preview Font Size Zoom Level	预览字号缩放
+Preview Modes	预览模式
+Preview Rendering Themes	预览渲染主题
+Preview sync mode	预览同步模式
+Previous Spellcheck Error	上一个拼写错误
+Print Html Preview	打印 HTML 预览
+Print Theme	打印主题
+Proper Case	首字母大写
+Refresh Folder	刷新文件夹
+Reject All Changes	拒绝全部更改
+Reload Favorites from disk	重新载入收藏夹
+Remote Name	远程名称
+Remove image	移除图片
+Remove leading Whitespace	删除行首空白
+Replace text	替换文本
+Report a Bug or Make a Suggestion	报告问题或提出建议
+Reset Settings to Default	恢复默认设置
+Revert all Changes	撤销全部更改
+Revised Prompt	修订后的提示词
+Save as Encrypted File	另存为加密文件
+Save as Project relative Path	保存为项目相对路径
+Save Current Chat	保存当前对话
+Save Image As	图片另存为
+Save Image to File	保存图片到文件
+Save Project As	项目另存为
+Save Settings	保存设置
+Save To	保存到
+Save to Html	保存为 HTML
+Save to PDF	保存为 PDF
+Save to Disk	保存到磁盘
+Save to File	保存到文件
+Search and Link	搜索并插入链接
+Search Emoji	搜索表情
+Search Favorites	搜索收藏夹
+Search file names	搜索文件名
+Search settings	搜索设置
+search sub-folders	搜索子文件夹
+Search text in files	搜索文件内容
+Search the Web	搜索网页
+Select files	选择文件
+Send Prompt	发送提示词
+Settings Folder	设置文件夹
+Show Error Log	查看错误日志
+Show Headers and Footers	显示页眉和页脚
+Show History	显示历史记录
+Show Ignored Files	显示已忽略的文件
+Show Markdown Feature Sample Document	打开 Markdown 功能示例
+Show output in Explorer	在资源管理器中显示输出
+Show System Prompt	显示系统提示词
+Small and Italic	小号斜体
+Soft Line Break	软换行
+Speak Document	朗读文档
+Speak Selection	朗读选中内容
+Speak Text from Clipboard	朗读剪贴板文本
+Standard List	普通列表
+Stop Speaking	停止朗读
+Strike out	删除线
+Subscript Text	下标
+Superscript Text	上标
+Summarize Document to Prompt	将文档摘要加入提示词
+Swap Editor and Preview Location	交换编辑器与预览位置
+Switch Application Theme	切换应用主题
+System Prompt	系统提示词
+Toggle Console Output Panel	显示或隐藏控制台
+Toggle Invisible Characters	显示或隐藏不可见字符
+Toggle Preview Window	显示或隐藏预览窗口
+Toggle Spellchecking	切换拼写检查
+Toggle Word Wrap	切换自动换行
+Toggle Distraction Free Mode	切换专注模式
+Toggle Folder Browser	显示或隐藏文件夹浏览器
+Toggle Left Sidebar	显示或隐藏左侧栏
+Toggle Line Numbers	显示或隐藏行号
+Toggle List Auto Completion	切换列表自动补全
+Toggle MiniMap	显示或隐藏代码缩略图
+Toggle Presentation Mode	切换演示模式
+Toggle Preview Zoom	切换预览缩放布局
+Toggle Right Sidebar	显示或隐藏右侧栏
+Toggle Soft Returns as Hard Returns	将软换行显示为硬换行
+Track active Document in Folder Browser	在文件夹浏览器中定位当前文档
+Translate again	重新翻译
+Underline Selected Text	给选中文字加下划线
+Update Addin	更新插件
+Url Encode	URL 编码
+Use Document Text for Prompt	将文档文本用作提示词
+Use Link References	使用引用式链接
+Use Web Image links	使用网络图片链接
+View in Image Viewer	在图片查看器中打开
+Voice Input (Start/Stop)	语音输入（开始或停止）
+Web Content	网页内容
+Web Server	Web 服务器
+What's New	更新内容

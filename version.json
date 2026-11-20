@@ -1,0 +1,10 @@
+{
+  "id": "ChineseLocalization",
+  "name": "Simplified Chinese UI / 简体中文界面",
+  "summary": "Community Simplified Chinese UI labels for Markdown Monster 4.7.x.",
+  "version": "0.1.0",
+  "minVersion": "4.7",
+  "maxVersion": "4.7.99",
+  "author": "SamueruTokeisou",
+  "updated": "2026-11-20T03:00:00Z"
+}
